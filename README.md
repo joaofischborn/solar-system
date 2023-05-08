@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<p align="center">Solar System</p>
+
+# 📕 About
+View planets and space missions informations.
+
+<img src="./src/images/solarsystem.png" alt="drawing" width="500"/>
+
+# 🧑‍💻 Technology
+- React
+
+This project was made to have my **first contact** with react, where I could learn about the use of components
